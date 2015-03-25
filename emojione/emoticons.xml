@@ -261,6 +261,9 @@
     <emoticon file="1F553" >
         <string>🕓</string>
     </emoticon>
+    <emoticon file="1F0CF" >
+        <string>🃏</string>
+    </emoticon>
     <emoticon file="2795" >
         <string>➕</string>
     </emoticon>
@@ -1728,6 +1731,9 @@
     <emoticon file="1F4FC" >
         <string>📼</string>
     </emoticon>
+    <emoticon file="00AE" >
+        <string>®</string>
+    </emoticon>
     <emoticon file="1F3E4" >
         <string>🏤</string>
     </emoticon>
@@ -1751,6 +1757,9 @@
     </emoticon>
     <emoticon file="1F501" >
         <string>🔁</string>
+    </emoticon>
+    <emoticon file="00A9" >
+        <string>©</string>
     </emoticon>
     <emoticon file="1F476" >
         <string>👶</string>
@@ -2105,6 +2114,9 @@
     </emoticon>
     <emoticon file="2139" >
         <string>ℹ</string>
+    </emoticon>
+    <emoticon file="1F004" >
+        <string>🀄</string>
     </emoticon>
     <emoticon file="2668" >
         <string>♨</string>
