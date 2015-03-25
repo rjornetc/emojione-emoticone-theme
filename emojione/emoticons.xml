@@ -1,0 +1,2463 @@
+<?xml version='1.0'?>
+<messaging-emoticon-map>
+    <emoticon file="2708" >
+        <string>✈</string>
+    </emoticon>
+    <emoticon file="23EC" >
+        <string>⏬</string>
+    </emoticon>
+    <emoticon file="1F487" >
+        <string>💇</string>
+    </emoticon>
+    <emoticon file="1F196" >
+        <string>🆖</string>
+    </emoticon>
+    <emoticon file="1F337" >
+        <string>🌷</string>
+    </emoticon>
+    <emoticon file="1F407" >
+        <string>🐇</string>
+    </emoticon>
+    <emoticon file="1F475" >
+        <string>👵</string>
+    </emoticon>
+    <emoticon file="1F694" >
+        <string>🚔</string>
+    </emoticon>
+    <emoticon file="1F69E" >
+        <string>🚞</string>
+    </emoticon>
+    <emoticon file="1F338" >
+        <string>🌸</string>
+    </emoticon>
+    <emoticon file="1F33B" >
+        <string>🌻</string>
+    </emoticon>
+    <emoticon file="1F55C" >
+        <string>🕜</string>
+    </emoticon>
+    <emoticon file="1F6C5" >
+        <string>🛅</string>
+    </emoticon>
+    <emoticon file="1F525" >
+        <string>🔥</string>
+    </emoticon>
+    <emoticon file="1F519" >
+        <string>🔙</string>
+    </emoticon>
+    <emoticon file="1F36C" >
+        <string>🍬</string>
+    </emoticon>
+    <emoticon file="1F617" >
+        <string>😗</string>
+    </emoticon>
+    <emoticon file="1F4E5" >
+        <string>📥</string>
+    </emoticon>
+    <emoticon file="1F41E" >
+        <string>🐞</string>
+    </emoticon>
+    <emoticon file="1F234" >
+        <string>🈴</string>
+    </emoticon>
+    <emoticon file="1F3B6" >
+        <string>🎶</string>
+    </emoticon>
+    <emoticon file="1F4F6" >
+        <string>📶</string>
+    </emoticon>
+    <emoticon file="1F332" >
+        <string>🌲</string>
+    </emoticon>
+    <emoticon file="1F49C" >
+        <string>💜</string>
+    </emoticon>
+    <emoticon file="1F63F" >
+        <string>😿</string>
+    </emoticon>
+    <emoticon file="1F368" >
+        <string>🍨</string>
+    </emoticon>
+    <emoticon file="1F3A6" >
+        <string>🎦</string>
+    </emoticon>
+    <emoticon file="1F421" >
+        <string>🐡</string>
+    </emoticon>
+    <emoticon file="1F3C7" >
+        <string>🏇</string>
+    </emoticon>
+    <emoticon file="1F4B3" >
+        <string>💳</string>
+    </emoticon>
+    <emoticon file="2650" >
+        <string>♐</string>
+    </emoticon>
+    <emoticon file="1F4D3" >
+        <string>📓</string>
+    </emoticon>
+    <emoticon file="1F4C1" >
+        <string>📁</string>
+    </emoticon>
+    <emoticon file="303D" >
+        <string>〽</string>
+    </emoticon>
+    <emoticon file="1F41D" >
+        <string>🐝</string>
+    </emoticon>
+    <emoticon file="1F194" >
+        <string>🆔</string>
+    </emoticon>
+    <emoticon file="231B" >
+        <string>⌛</string>
+    </emoticon>
+    <emoticon file="1F454" >
+        <string>👔</string>
+    </emoticon>
+    <emoticon file="1F393" >
+        <string>🎓</string>
+    </emoticon>
+    <emoticon file="1F35B" >
+        <string>🍛</string>
+    </emoticon>
+    <emoticon file="1F64C" >
+        <string>🙌</string>
+    </emoticon>
+    <emoticon file="1F4B9" >
+        <string>💹</string>
+    </emoticon>
+    <emoticon file="1F348" >
+        <string>🍈</string>
+    </emoticon>
+    <emoticon file="1F51E" >
+        <string>🔞</string>
+    </emoticon>
+    <emoticon file="1F330" >
+        <string>🌰</string>
+    </emoticon>
+    <emoticon file="1F334" >
+        <string>🌴</string>
+    </emoticon>
+    <emoticon file="1F4EE" >
+        <string>📮</string>
+    </emoticon>
+    <emoticon file="1F49B" >
+        <string>💛</string>
+    </emoticon>
+    <emoticon file="1F30A" >
+        <string>🌊</string>
+    </emoticon>
+    <emoticon file="1F31F" >
+        <string>🌟</string>
+    </emoticon>
+    <emoticon file="1F532" >
+        <string>🔲</string>
+    </emoticon>
+    <emoticon file="1F513" >
+        <string>🔓</string>
+    </emoticon>
+    <emoticon file="1F4CD" >
+        <string>📍</string>
+    </emoticon>
+    <emoticon file="1F514" >
+        <string>🔔</string>
+    </emoticon>
+    <emoticon file="1F4E8" >
+        <string>📨</string>
+    </emoticon>
+    <emoticon file="1F45B" >
+        <string>👛</string>
+    </emoticon>
+    <emoticon file="1F359" >
+        <string>🍙</string>
+    </emoticon>
+    <emoticon file="1F4DB" >
+        <string>📛</string>
+    </emoticon>
+    <emoticon file="1F53C" >
+        <string>🔼</string>
+    </emoticon>
+    <emoticon file="1F235" >
+        <string>🈵</string>
+    </emoticon>
+    <emoticon file="1F516" >
+        <string>🔖</string>
+    </emoticon>
+    <emoticon file="1F356" >
+        <string>🍖</string>
+    </emoticon>
+    <emoticon file="1F68B" >
+        <string>🚋</string>
+    </emoticon>
+    <emoticon file="267F" >
+        <string>♿</string>
+    </emoticon>
+    <emoticon file="1F379" >
+        <string>🍹</string>
+    </emoticon>
+    <emoticon file="1F615" >
+        <string>😕</string>
+    </emoticon>
+    <emoticon file="1F6AD" >
+        <string>🚭</string>
+    </emoticon>
+    <emoticon file="27A1" >
+        <string>➡</string>
+    </emoticon>
+    <emoticon file="1F681" >
+        <string>🚁</string>
+    </emoticon>
+    <emoticon file="1F36F" >
+        <string>🍯</string>
+    </emoticon>
+    <emoticon file="1F31D" >
+        <string>🌝</string>
+    </emoticon>
+    <emoticon file="1F69C" >
+        <string>🚜</string>
+    </emoticon>
+    <emoticon file="1F313" >
+        <string>🌓</string>
+    </emoticon>
+    <emoticon file="1F37A" >
+        <string>🍺</string>
+    </emoticon>
+    <emoticon file="1F43B" >
+        <string>🐻</string>
+    </emoticon>
+    <emoticon file="26A1" >
+        <string>⚡</string>
+    </emoticon>
+    <emoticon file="1F555" >
+        <string>🕕</string>
+    </emoticon>
+    <emoticon file="2754" >
+        <string>❔</string>
+    </emoticon>
+    <emoticon file="1F3E0" >
+        <string>🏠</string>
+    </emoticon>
+    <emoticon file="1F3BD" >
+        <string>🎽</string>
+    </emoticon>
+    <emoticon file="1F417" >
+        <string>🐗</string>
+    </emoticon>
+    <emoticon file="1F3F0" >
+        <string>🏰</string>
+    </emoticon>
+    <emoticon file="1F48C" >
+        <string>💌</string>
+    </emoticon>
+    <emoticon file="1F4AC" >
+        <string>💬</string>
+    </emoticon>
+    <emoticon file="1F43E" >
+        <string>🐾</string>
+    </emoticon>
+    <emoticon file="1F559" >
+        <string>🕙</string>
+    </emoticon>
+    <emoticon file="1F553" >
+        <string>🕓</string>
+    </emoticon>
+    <emoticon file="2795" >
+        <string>➕</string>
+    </emoticon>
+    <emoticon file="1F30B" >
+        <string>🌋</string>
+    </emoticon>
+    <emoticon file="1F31A" >
+        <string>🌚</string>
+    </emoticon>
+    <emoticon file="1F533" >
+        <string>🔳</string>
+    </emoticon>
+    <emoticon file="1F41F" >
+        <string>🐟</string>
+    </emoticon>
+    <emoticon file="1F610" >
+        <string>😐</string>
+    </emoticon>
+    <emoticon file="1F484" >
+        <string>💄</string>
+    </emoticon>
+    <emoticon file="1F46A" >
+        <string>👪</string>
+    </emoticon>
+    <emoticon file="3030" >
+        <string>〰</string>
+    </emoticon>
+    <emoticon file="1F61D" >
+        <string>😝</string>
+    </emoticon>
+    <emoticon file="1F535" >
+        <string>🔵</string>
+    </emoticon>
+    <emoticon file="1F3B5" >
+        <string>🎵</string>
+    </emoticon>
+    <emoticon file="1F44F" >
+        <string>👏</string>
+    </emoticon>
+    <emoticon file="1F199" >
+        <string>🆙</string>
+    </emoticon>
+    <emoticon file="1F609" >
+        <string>😉</string>
+    </emoticon>
+    <emoticon file="1F351" >
+        <string>🍑</string>
+    </emoticon>
+    <emoticon file="1F311" >
+        <string>🌑</string>
+    </emoticon>
+    <emoticon file="1F69B" >
+        <string>🚛</string>
+    </emoticon>
+    <emoticon file="1F4CA" >
+        <string>📊</string>
+    </emoticon>
+    <emoticon file="1F378" >
+        <string>🍸</string>
+    </emoticon>
+    <emoticon file="2B07" >
+        <string>⬇</string>
+    </emoticon>
+    <emoticon file="2934" >
+        <string>⤴</string>
+    </emoticon>
+    <emoticon file="1F335" >
+        <string>🌵</string>
+    </emoticon>
+    <emoticon file="1F357" >
+        <string>🍗</string>
+    </emoticon>
+    <emoticon file="1F250" >
+        <string>🉐</string>
+    </emoticon>
+    <emoticon file="1F31E" >
+        <string>🌞</string>
+    </emoticon>
+    <emoticon file="1F557" >
+        <string>🕗</string>
+    </emoticon>
+    <emoticon file="1F471" >
+        <string>👱</string>
+    </emoticon>
+    <emoticon file="1F6B6" >
+        <string>🚶</string>
+    </emoticon>
+    <emoticon file="1F3B2" >
+        <string>🎲</string>
+    </emoticon>
+    <emoticon file="1F22F" >
+        <string>🈯</string>
+    </emoticon>
+    <emoticon file="1F467" >
+        <string>👧</string>
+    </emoticon>
+    <emoticon file="1F64A" >
+        <string>🙊</string>
+    </emoticon>
+    <emoticon file="1F310" >
+        <string>🌐</string>
+    </emoticon>
+    <emoticon file="1F4F4" >
+        <string>📴</string>
+    </emoticon>
+    <emoticon file="1F195" >
+        <string>🆕</string>
+    </emoticon>
+    <emoticon file="1F6BE" >
+        <string>🚾</string>
+    </emoticon>
+    <emoticon file="1F6AE" >
+        <string>🚮</string>
+    </emoticon>
+    <emoticon file="1F18E" >
+        <string>🆎</string>
+    </emoticon>
+    <emoticon file="1F43D" >
+        <string>🐽</string>
+    </emoticon>
+    <emoticon file="1F625" >
+        <string>😥</string>
+    </emoticon>
+    <emoticon file="1F4A1" >
+        <string>💡</string>
+    </emoticon>
+    <emoticon file="1F69A" >
+        <string>🚚</string>
+    </emoticon>
+    <emoticon file="1F515" >
+        <string>🔕</string>
+    </emoticon>
+    <emoticon file="1F3AE" >
+        <string>🎮</string>
+    </emoticon>
+    <emoticon file="2197" >
+        <string>↗</string>
+    </emoticon>
+    <emoticon file="1F41B" >
+        <string>🐛</string>
+    </emoticon>
+    <emoticon file="1F385" >
+        <string>🎅</string>
+    </emoticon>
+    <emoticon file="1F4EB" >
+        <string>📫</string>
+    </emoticon>
+    <emoticon file="1F4AF" >
+        <string>💯</string>
+    </emoticon>
+    <emoticon file="1F64D" >
+        <string>🙍</string>
+    </emoticon>
+    <emoticon file="1F509" >
+        <string>🔉</string>
+    </emoticon>
+    <emoticon file="264D" >
+        <string>♍</string>
+    </emoticon>
+    <emoticon file="1F4CF" >
+        <string>📏</string>
+    </emoticon>
+    <emoticon file="1F4D0" >
+        <string>📐</string>
+    </emoticon>
+    <emoticon file="1F3BF" >
+        <string>🎿</string>
+    </emoticon>
+    <emoticon file="1F3A5" >
+        <string>🎥</string>
+    </emoticon>
+    <emoticon file="1F446" >
+        <string>👆</string>
+    </emoticon>
+    <emoticon file="1F458" >
+        <string>👘</string>
+    </emoticon>
+    <emoticon file="1F367" >
+        <string>🍧</string>
+    </emoticon>
+    <emoticon file="1F33F" >
+        <string>🌿</string>
+    </emoticon>
+    <emoticon file="264B" >
+        <string>♋</string>
+    </emoticon>
+    <emoticon file="1F411" >
+        <string>🐑</string>
+    </emoticon>
+    <emoticon file="1F4E3" >
+        <string>📣</string>
+    </emoticon>
+    <emoticon file="1F512" >
+        <string>🔒</string>
+    </emoticon>
+    <emoticon file="1F428" >
+        <string>🐨</string>
+    </emoticon>
+    <emoticon file="1F416" >
+        <string>🐖</string>
+    </emoticon>
+    <emoticon file="1F60F" >
+        <string>😏</string>
+    </emoticon>
+    <emoticon file="1F40E" >
+        <string>🐎</string>
+    </emoticon>
+    <emoticon file="1F4EA" >
+        <string>📪</string>
+    </emoticon>
+    <emoticon file="1F4EC" >
+        <string>📬</string>
+    </emoticon>
+    <emoticon file="1F483" >
+        <string>💃</string>
+    </emoticon>
+    <emoticon file="1F6A9" >
+        <string>🚩</string>
+    </emoticon>
+    <emoticon file="26FD" >
+        <string>⛽</string>
+    </emoticon>
+    <emoticon file="1F429" >
+        <string>🐩</string>
+    </emoticon>
+    <emoticon file="1F201" >
+        <string>🈁</string>
+    </emoticon>
+    <emoticon file="1F462" >
+        <string>👢</string>
+    </emoticon>
+    <emoticon file="1F370" >
+        <string>🍰</string>
+    </emoticon>
+    <emoticon file="1F687" >
+        <string>🚇</string>
+    </emoticon>
+    <emoticon file="1F36D" >
+        <string>🍭</string>
+    </emoticon>
+    <emoticon file="1F439" >
+        <string>🐹</string>
+    </emoticon>
+    <emoticon file="1F400" >
+        <string>🐀</string>
+    </emoticon>
+    <emoticon file="1F47F" >
+        <string>👿</string>
+    </emoticon>
+    <emoticon file="1F4BD" >
+        <string>💽</string>
+    </emoticon>
+    <emoticon file="1F639" >
+        <string>😹</string>
+    </emoticon>
+    <emoticon file="1F305" >
+        <string>🌅</string>
+    </emoticon>
+    <emoticon file="1F49F" >
+        <string>💟</string>
+    </emoticon>
+    <emoticon file="1F431" >
+        <string>🐱</string>
+    </emoticon>
+    <emoticon file="1F486" >
+        <string>💆</string>
+    </emoticon>
+    <emoticon file="1F3E2" >
+        <string>🏢</string>
+    </emoticon>
+    <emoticon file="1F198" >
+        <string>🆘</string>
+    </emoticon>
+    <emoticon file="1F613" >
+        <string>😓</string>
+    </emoticon>
+    <emoticon file="1F4AB" >
+        <string>💫</string>
+    </emoticon>
+    <emoticon file="1F4D6" >
+        <string>📖</string>
+    </emoticon>
+    <emoticon file="1F50C" >
+        <string>🔌</string>
+    </emoticon>
+    <emoticon file="1F3AA" >
+        <string>🎪</string>
+    </emoticon>
+    <emoticon file="2B1C" >
+        <string>⬜</string>
+    </emoticon>
+    <emoticon file="1F622" >
+        <string>😢</string>
+    </emoticon>
+    <emoticon file="1F5FE" >
+        <string>🗾</string>
+    </emoticon>
+    <emoticon file="203C" >
+        <string>‼</string>
+    </emoticon>
+    <emoticon file="1F4B2" >
+        <string>💲</string>
+    </emoticon>
+    <emoticon file="1F4A6" >
+        <string>💦</string>
+    </emoticon>
+    <emoticon file="1F522" >
+        <string>🔢</string>
+    </emoticon>
+    <emoticon file="1F316" >
+        <string>🌖</string>
+    </emoticon>
+    <emoticon file="1F437" >
+        <string>🐷</string>
+    </emoticon>
+    <emoticon file="1F21A" >
+        <string>🈚</string>
+    </emoticon>
+    <emoticon file="1F43C" >
+        <string>🐼</string>
+    </emoticon>
+    <emoticon file="1F6BC" >
+        <string>🚼</string>
+    </emoticon>
+    <emoticon file="1F4CB" >
+        <string>📋</string>
+    </emoticon>
+    <emoticon file="2B1B" >
+        <string>⬛</string>
+    </emoticon>
+    <emoticon file="1F51F" >
+        <string>🔟</string>
+    </emoticon>
+    <emoticon file="1F443" >
+        <string>👃</string>
+    </emoticon>
+    <emoticon file="1F600" >
+        <string>😀</string>
+    </emoticon>
+    <emoticon file="1F474" >
+        <string>👴</string>
+    </emoticon>
+    <emoticon file="1F6A8" >
+        <string>🚨</string>
+    </emoticon>
+    <emoticon file="1F4DF" >
+        <string>📟</string>
+    </emoticon>
+    <emoticon file="1F427" >
+        <string>🐧</string>
+    </emoticon>
+    <emoticon file="1F614" >
+        <string>😔</string>
+    </emoticon>
+    <emoticon file="1F382" >
+        <string>🎂</string>
+    </emoticon>
+    <emoticon file="1F492" >
+        <string>💒</string>
+    </emoticon>
+    <emoticon file="1F4A0" >
+        <string>💠</string>
+    </emoticon>
+    <emoticon file="1F6BB" >
+        <string>🚻</string>
+    </emoticon>
+    <emoticon file="1F301" >
+        <string>🌁</string>
+    </emoticon>
+    <emoticon file="1F41C" >
+        <string>🐜</string>
+    </emoticon>
+    <emoticon file="1F61C" >
+        <string>😜</string>
+    </emoticon>
+    <emoticon file="264A" >
+        <string>♊</string>
+    </emoticon>
+    <emoticon file="1F524" >
+        <string>🔤</string>
+    </emoticon>
+    <emoticon file="25AB" >
+        <string>▫</string>
+    </emoticon>
+    <emoticon file="1F4A3" >
+        <string>💣</string>
+    </emoticon>
+    <emoticon file="1F342" >
+        <string>🍂</string>
+    </emoticon>
+    <emoticon file="1F4C6" >
+        <string>📆</string>
+    </emoticon>
+    <emoticon file="1F6B3" >
+        <string>🚳</string>
+    </emoticon>
+    <emoticon file="1F23A" >
+        <string>🈺</string>
+    </emoticon>
+    <emoticon file="1F645" >
+        <string>🙅</string>
+    </emoticon>
+    <emoticon file="1F425" >
+        <string>🐥</string>
+    </emoticon>
+    <emoticon file="1F55E" >
+        <string>🕞</string>
+    </emoticon>
+    <emoticon file="1F635" >
+        <string>😵</string>
+    </emoticon>
+    <emoticon file="1F4D4" >
+        <string>📔</string>
+    </emoticon>
+    <emoticon file="1F636" >
+        <string>😶</string>
+    </emoticon>
+    <emoticon file="1F603" >
+        <string>😃</string>
+    </emoticon>
+    <emoticon file="1F387" >
+        <string>🎇</string>
+    </emoticon>
+    <emoticon file="1F6A7" >
+        <string>🚧</string>
+    </emoticon>
+    <emoticon file="1F620" >
+        <string>😠</string>
+    </emoticon>
+    <emoticon file="1F4A4" >
+        <string>💤</string>
+    </emoticon>
+    <emoticon file="2198" >
+        <string>↘</string>
+    </emoticon>
+    <emoticon file="21A9" >
+        <string>↩</string>
+    </emoticon>
+    <emoticon file="1F55D" >
+        <string>🕝</string>
+    </emoticon>
+    <emoticon file="1F419" >
+        <string>🐙</string>
+    </emoticon>
+    <emoticon file="1F500" >
+        <string>🔀</string>
+    </emoticon>
+    <emoticon file="1F693" >
+        <string>🚓</string>
+    </emoticon>
+    <emoticon file="1F51D" >
+        <string>🔝</string>
+    </emoticon>
+    <emoticon file="1F4E0" >
+        <string>📠</string>
+    </emoticon>
+    <emoticon file="1F349" >
+        <string>🍉</string>
+    </emoticon>
+    <emoticon file="1F3B9" >
+        <string>🎹</string>
+    </emoticon>
+    <emoticon file="1F50B" >
+        <string>🔋</string>
+    </emoticon>
+    <emoticon file="1F468" >
+        <string>👨</string>
+    </emoticon>
+    <emoticon file="1F383" >
+        <string>🎃</string>
+    </emoticon>
+    <emoticon file="1F450" >
+        <string>👐</string>
+    </emoticon>
+    <emoticon file="1F5FB" >
+        <string>🗻</string>
+    </emoticon>
+    <emoticon file="1F488" >
+        <string>💈</string>
+    </emoticon>
+    <emoticon file="1F4D9" >
+        <string>📙</string>
+    </emoticon>
+    <emoticon file="1F3B8" >
+        <string>🎸</string>
+    </emoticon>
+    <emoticon file="27B0" >
+        <string>➰</string>
+    </emoticon>
+    <emoticon file="1F3EB" >
+        <string>🏫</string>
+    </emoticon>
+    <emoticon file="1F191" >
+        <string>🆑</string>
+    </emoticon>
+    <emoticon file="1F4C8" >
+        <string>📈</string>
+    </emoticon>
+    <emoticon file="1F528" >
+        <string>🔨</string>
+    </emoticon>
+    <emoticon file="1F430" >
+        <string>🐰</string>
+    </emoticon>
+    <emoticon file="1F634" >
+        <string>😴</string>
+    </emoticon>
+    <emoticon file="21AA" >
+        <string>↪</string>
+    </emoticon>
+    <emoticon file="1F380" >
+        <string>🎀</string>
+    </emoticon>
+    <emoticon file="1F6AF" >
+        <string>🚯</string>
+    </emoticon>
+    <emoticon file="1F47A" >
+        <string>👺</string>
+    </emoticon>
+    <emoticon file="1F3E3" >
+        <string>🏣</string>
+    </emoticon>
+    <emoticon file="2B55" >
+        <string>⭕</string>
+    </emoticon>
+    <emoticon file="1F445" >
+        <string>👅</string>
+    </emoticon>
+    <emoticon file="1F469" >
+        <string>👩</string>
+    </emoticon>
+    <emoticon file="1F62D" >
+        <string>😭</string>
+    </emoticon>
+    <emoticon file="1F3C9" >
+        <string>🏉</string>
+    </emoticon>
+    <emoticon file="1F601" >
+        <string>😁</string>
+    </emoticon>
+    <emoticon file="2601" >
+        <string>☁</string>
+    </emoticon>
+    <emoticon file="1F31C" >
+        <string>🌜</string>
+    </emoticon>
+    <emoticon file="1F4A8" >
+        <string>💨</string>
+    </emoticon>
+    <emoticon file="1F38A" >
+        <string>🎊</string>
+    </emoticon>
+    <emoticon file="1F453" >
+        <string>👓</string>
+    </emoticon>
+    <emoticon file="1F4DA" >
+        <string>📚</string>
+    </emoticon>
+    <emoticon file="1F50F" >
+        <string>🔏</string>
+    </emoticon>
+    <emoticon file="1F358" >
+        <string>🍘</string>
+    </emoticon>
+    <emoticon file="1F566" >
+        <string>🕦</string>
+    </emoticon>
+    <emoticon file="1F35F" >
+        <string>🍟</string>
+    </emoticon>
+    <emoticon file="1F30D" >
+        <string>🌍</string>
+    </emoticon>
+    <emoticon file="1F4BE" >
+        <string>💾</string>
+    </emoticon>
+    <emoticon file="2651" >
+        <string>♑</string>
+    </emoticon>
+    <emoticon file="1F45E" >
+        <string>👞</string>
+    </emoticon>
+    <emoticon file="1F563" >
+        <string>🕣</string>
+    </emoticon>
+    <emoticon file="1F631" >
+        <string>😱</string>
+    </emoticon>
+    <emoticon file="270B" >
+        <string>✋</string>
+    </emoticon>
+    <emoticon file="1F478" >
+        <string>👸</string>
+    </emoticon>
+    <emoticon file="1F17E" >
+        <string>🅾</string>
+    </emoticon>
+    <emoticon file="1F4D5" >
+        <string>📕</string>
+    </emoticon>
+    <emoticon file="1F426" >
+        <string>🐦</string>
+    </emoticon>
+    <emoticon file="1F4A9" >
+        <string>💩</string>
+    </emoticon>
+    <emoticon file="1F698" >
+        <string>🚘</string>
+    </emoticon>
+    <emoticon file="1F627" >
+        <string>😧</string>
+    </emoticon>
+    <emoticon file="1F48D" >
+        <string>💍</string>
+    </emoticon>
+    <emoticon file="1F440" >
+        <string>👀</string>
+    </emoticon>
+    <emoticon file="1F38D" >
+        <string>🎍</string>
+    </emoticon>
+    <emoticon file="1F560" >
+        <string>🕠</string>
+    </emoticon>
+    <emoticon file="1F695" >
+        <string>🚕</string>
+    </emoticon>
+    <emoticon file="1F493" >
+        <string>💓</string>
+    </emoticon>
+    <emoticon file="1F404" >
+        <string>🐄</string>
+    </emoticon>
+    <emoticon file="1F44A" >
+        <string>👊</string>
+    </emoticon>
+    <emoticon file="1F4A2" >
+        <string>💢</string>
+    </emoticon>
+    <emoticon file="1F46B" >
+        <string>👫</string>
+    </emoticon>
+    <emoticon file="1F423" >
+        <string>🐣</string>
+    </emoticon>
+    <emoticon file="1F31B" >
+        <string>🌛</string>
+    </emoticon>
+    <emoticon file="1F61A" >
+        <string>😚</string>
+    </emoticon>
+    <emoticon file="1F5FD" >
+        <string>🗽</string>
+    </emoticon>
+    <emoticon file="1F438" >
+        <string>🐸</string>
+    </emoticon>
+    <emoticon file="1F621" >
+        <string>😡</string>
+    </emoticon>
+    <emoticon file="1F4C7" >
+        <string>📇</string>
+    </emoticon>
+    <emoticon file="1F42F" >
+        <string>🐯</string>
+    </emoticon>
+    <emoticon file="1F197" >
+        <string>🆗</string>
+    </emoticon>
+    <emoticon file="1F34C" >
+        <string>🍌</string>
+    </emoticon>
+    <emoticon file="1F6B2" >
+        <string>🚲</string>
+    </emoticon>
+    <emoticon file="1F49D" >
+        <string>💝</string>
+    </emoticon>
+    <emoticon file="1F52A" >
+        <string>🔪</string>
+    </emoticon>
+    <emoticon file="1F611" >
+        <string>😑</string>
+    </emoticon>
+    <emoticon file="1F606" >
+        <string>😆</string>
+    </emoticon>
+    <emoticon file="1F4F5" >
+        <string>📵</string>
+    </emoticon>
+    <emoticon file="1F556" >
+        <string>🕖</string>
+    </emoticon>
+    <emoticon file="1F537" >
+        <string>🔷</string>
+    </emoticon>
+    <emoticon file="26FA" >
+        <string>⛺</string>
+    </emoticon>
+    <emoticon file="1F48E" >
+        <string>💎</string>
+    </emoticon>
+    <emoticon file="1F365" >
+        <string>🍥</string>
+    </emoticon>
+    <emoticon file="1F4C2" >
+        <string>📂</string>
+    </emoticon>
+    <emoticon file="1F451" >
+        <string>👑</string>
+    </emoticon>
+    <emoticon file="1F682" >
+        <string>🚂</string>
+    </emoticon>
+    <emoticon file="1F3AC" >
+        <string>🎬</string>
+    </emoticon>
+    <emoticon file="1F619" >
+        <string>😙</string>
+    </emoticon>
+    <emoticon file="1F637" >
+        <string>😷</string>
+    </emoticon>
+    <emoticon file="1F3EC" >
+        <string>🏬</string>
+    </emoticon>
+    <emoticon file="1F3E5" >
+        <string>🏥</string>
+    </emoticon>
+    <emoticon file="2757" >
+        <string>❗</string>
+    </emoticon>
+    <emoticon file="1F4ED" >
+        <string>📭</string>
+    </emoticon>
+    <emoticon file="1F40D" >
+        <string>🐍</string>
+    </emoticon>
+    <emoticon file="1F364" >
+        <string>🍤</string>
+    </emoticon>
+    <emoticon file="1F4B8" >
+        <string>💸</string>
+    </emoticon>
+    <emoticon file="1F607" >
+        <string>😇</string>
+    </emoticon>
+    <emoticon file="1F42B" >
+        <string>🐫</string>
+    </emoticon>
+    <emoticon file="270A" >
+        <string>✊</string>
+    </emoticon>
+    <emoticon file="1F562" >
+        <string>🕢</string>
+    </emoticon>
+    <emoticon file="1F52B" >
+        <string>🔫</string>
+    </emoticon>
+    <emoticon file="1F315" >
+        <string>🌕</string>
+    </emoticon>
+    <emoticon file="1F62C" >
+        <string>😬</string>
+    </emoticon>
+    <emoticon file="1F485" >
+        <string>💅</string>
+    </emoticon>
+    <emoticon file="1F308" >
+        <string>🌈</string>
+    </emoticon>
+    <emoticon file="1F319" >
+        <string>🌙</string>
+    </emoticon>
+    <emoticon file="1F391" >
+        <string>🎑</string>
+    </emoticon>
+    <emoticon file="26A0" >
+        <string>⚠</string>
+    </emoticon>
+    <emoticon file="1F55B" >
+        <string>🕛</string>
+    </emoticon>
+    <emoticon file="2665" >
+        <string>♥</string>
+    </emoticon>
+    <emoticon file="1F49E" >
+        <string>💞</string>
+    </emoticon>
+    <emoticon file="1F46C" >
+        <string>👬</string>
+    </emoticon>
+    <emoticon file="1F465" >
+        <string>👥</string>
+    </emoticon>
+    <emoticon file="26F5" >
+        <string>⛵</string>
+    </emoticon>
+    <emoticon file="1F554" >
+        <string>🕔</string>
+    </emoticon>
+    <emoticon file="1F433" >
+        <string>🐳</string>
+    </emoticon>
+    <emoticon file="1F4D1" >
+        <string>📑</string>
+    </emoticon>
+    <emoticon file="1F3EE" >
+        <string>🏮</string>
+    </emoticon>
+    <emoticon file="1F623" >
+        <string>😣</string>
+    </emoticon>
+    <emoticon file="1F340" >
+        <string>🍀</string>
+    </emoticon>
+    <emoticon file="1F61B" >
+        <string>😛</string>
+    </emoticon>
+    <emoticon file="1F53A" >
+        <string>🔺</string>
+    </emoticon>
+    <emoticon file="2615" >
+        <string>☕</string>
+    </emoticon>
+    <emoticon file="1F333" >
+        <string>🌳</string>
+    </emoticon>
+    <emoticon file="1F463" >
+        <string>👣</string>
+    </emoticon>
+    <emoticon file="1F422" >
+        <string>🐢</string>
+    </emoticon>
+    <emoticon file="1F375" >
+        <string>🍵</string>
+    </emoticon>
+    <emoticon file="1F371" >
+        <string>🍱</string>
+    </emoticon>
+    <emoticon file="1F3A1" >
+        <string>🎡</string>
+    </emoticon>
+    <emoticon file="2B50" >
+        <string>⭐</string>
+    </emoticon>
+    <emoticon file="1F47E" >
+        <string>👾</string>
+    </emoticon>
+    <emoticon file="26AB" >
+        <string>⚫</string>
+    </emoticon>
+    <emoticon file="1F33C" >
+        <string>🌼</string>
+    </emoticon>
+    <emoticon file="24C2" >
+        <string>Ⓜ</string>
+    </emoticon>
+    <emoticon file="1F346" >
+        <string>🍆</string>
+    </emoticon>
+    <emoticon file="1F6B5" >
+        <string>🚵</string>
+    </emoticon>
+    <emoticon file="1F354" >
+        <string>🍔</string>
+    </emoticon>
+    <emoticon file="1F3C2" >
+        <string>🏂</string>
+    </emoticon>
+    <emoticon file="1F632" >
+        <string>😲</string>
+    </emoticon>
+    <emoticon file="1F3EA" >
+        <string>🏪</string>
+    </emoticon>
+    <emoticon file="26AA" >
+        <string>⚪</string>
+    </emoticon>
+    <emoticon file="1F48F" >
+        <string>💏</string>
+    </emoticon>
+    <emoticon file="26BE" >
+        <string>⚾</string>
+    </emoticon>
+    <emoticon file="1F564" >
+        <string>🕤</string>
+    </emoticon>
+    <emoticon file="1F552" >
+        <string>🕒</string>
+    </emoticon>
+    <emoticon file="1F480" >
+        <string>💀</string>
+    </emoticon>
+    <emoticon file="23F0" >
+        <string>⏰</string>
+    </emoticon>
+    <emoticon file="1F685" >
+        <string>🚅</string>
+    </emoticon>
+    <emoticon file="1F3BA" >
+        <string>🎺</string>
+    </emoticon>
+    <emoticon file="1F4B1" >
+        <string>💱</string>
+    </emoticon>
+    <emoticon file="1F4E6" >
+        <string>📦</string>
+    </emoticon>
+    <emoticon file="1F69F" >
+        <string>🚟</string>
+    </emoticon>
+    <emoticon file="1F402" >
+        <string>🐂</string>
+    </emoticon>
+    <emoticon file="1F638" >
+        <string>😸</string>
+    </emoticon>
+    <emoticon file="1F3A4" >
+        <string>🎤</string>
+    </emoticon>
+    <emoticon file="1F35A" >
+        <string>🍚</string>
+    </emoticon>
+    <emoticon file="1F309" >
+        <string>🌉</string>
+    </emoticon>
+    <emoticon file="2649" >
+        <string>♉</string>
+    </emoticon>
+    <emoticon file="1F510" >
+        <string>🔐</string>
+    </emoticon>
+    <emoticon file="1F35D" >
+        <string>🍝</string>
+    </emoticon>
+    <emoticon file="1F50D" >
+        <string>🔍</string>
+    </emoticon>
+    <emoticon file="1F4AD" >
+        <string>💭</string>
+    </emoticon>
+    <emoticon file="2653" >
+        <string>♓</string>
+    </emoticon>
+    <emoticon file="2652" >
+        <string>♒</string>
+    </emoticon>
+    <emoticon file="1F62E" >
+        <string>😮</string>
+    </emoticon>
+    <emoticon file="1F406" >
+        <string>🐆</string>
+    </emoticon>
+    <emoticon file="1F477" >
+        <string>👷</string>
+    </emoticon>
+    <emoticon file="1F526" >
+        <string>🔦</string>
+    </emoticon>
+    <emoticon file="1F4B0" >
+        <string>💰</string>
+    </emoticon>
+    <emoticon file="1F34F" >
+        <string>🍏</string>
+    </emoticon>
+    <emoticon file="1F3E7" >
+        <string>🏧</string>
+    </emoticon>
+    <emoticon file="1F202" >
+        <string>🈂</string>
+    </emoticon>
+    <emoticon file="1F303" >
+        <string>🌃</string>
+    </emoticon>
+    <emoticon file="1F48B" >
+        <string>💋</string>
+    </emoticon>
+    <emoticon file="1F506" >
+        <string>🔆</string>
+    </emoticon>
+    <emoticon file="1F17F" >
+        <string>🅿</string>
+    </emoticon>
+    <emoticon file="2935" >
+        <string>⤵</string>
+    </emoticon>
+    <emoticon file="1F68D" >
+        <string>🚍</string>
+    </emoticon>
+    <emoticon file="1F345" >
+        <string>🍅</string>
+    </emoticon>
+    <emoticon file="1F350" >
+        <string>🍐</string>
+    </emoticon>
+    <emoticon file="2600" >
+        <string>☀</string>
+    </emoticon>
+    <emoticon file="1F343" >
+        <string>🍃</string>
+    </emoticon>
+    <emoticon file="1F304" >
+        <string>🌄</string>
+    </emoticon>
+    <emoticon file="26CE" >
+        <string>⛎</string>
+    </emoticon>
+    <emoticon file="1F4CC" >
+        <string>📌</string>
+    </emoticon>
+    <emoticon file="1F42E" >
+        <string>🐮</string>
+    </emoticon>
+    <emoticon file="1F237" >
+        <string>🈷</string>
+    </emoticon>
+    <emoticon file="1F4DE" >
+        <string>📞</string>
+    </emoticon>
+    <emoticon file="1F405" >
+        <string>🐅</string>
+    </emoticon>
+    <emoticon file="1F523" >
+        <string>🔣</string>
+    </emoticon>
+    <emoticon file="1F42A" >
+        <string>🐪</string>
+    </emoticon>
+    <emoticon file="25AA" >
+        <string>▪</string>
+    </emoticon>
+    <emoticon file="1F449" >
+        <string>👉</string>
+    </emoticon>
+    <emoticon file="1F6BD" >
+        <string>🚽</string>
+    </emoticon>
+    <emoticon file="1F410" >
+        <string>🐐</string>
+    </emoticon>
+    <emoticon file="1F362" >
+        <string>🍢</string>
+    </emoticon>
+    <emoticon file="1F386" >
+        <string>🎆</string>
+    </emoticon>
+    <emoticon file="1F432" >
+        <string>🐲</string>
+    </emoticon>
+    <emoticon file="1F3BC" >
+        <string>🎼</string>
+    </emoticon>
+    <emoticon file="1F55F" >
+        <string>🕟</string>
+    </emoticon>
+    <emoticon file="1F4E1" >
+        <string>📡</string>
+    </emoticon>
+    <emoticon file="1F34D" >
+        <string>🍍</string>
+    </emoticon>
+    <emoticon file="1F538" >
+        <string>🔸</string>
+    </emoticon>
+    <emoticon file="1F68C" >
+        <string>🚌</string>
+    </emoticon>
+    <emoticon file="1F3C8" >
+        <string>🏈</string>
+    </emoticon>
+    <emoticon file="1F3E6" >
+        <string>🏦</string>
+    </emoticon>
+    <emoticon file="1F40B" >
+        <string>🐋</string>
+    </emoticon>
+    <emoticon file="2702" >
+        <string>✂</string>
+    </emoticon>
+    <emoticon file="1F384" >
+        <string>🎄</string>
+    </emoticon>
+    <emoticon file="1F415" >
+        <string>🐕</string>
+    </emoticon>
+    <emoticon file="1F534" >
+        <string>🔴</string>
+    </emoticon>
+    <emoticon file="1F34E" >
+        <string>🍎</string>
+    </emoticon>
+    <emoticon file="1F318" >
+        <string>🌘</string>
+    </emoticon>
+    <emoticon file="1F369" >
+        <string>🍩</string>
+    </emoticon>
+    <emoticon file="1F4D2" >
+        <string>📒</string>
+    </emoticon>
+    <emoticon file="2199" >
+        <string>↙</string>
+    </emoticon>
+    <emoticon file="1F640" >
+        <string>🙀</string>
+    </emoticon>
+    <emoticon file="26EA" >
+        <string>⛪</string>
+    </emoticon>
+    <emoticon file="2648" >
+        <string>♈</string>
+    </emoticon>
+    <emoticon file="1F40F" >
+        <string>🐏</string>
+    </emoticon>
+    <emoticon file="1F62B" >
+        <string>😫</string>
+    </emoticon>
+    <emoticon file="1F193" >
+        <string>🆓</string>
+    </emoticon>
+    <emoticon file="1F612" >
+        <string>😒</string>
+    </emoticon>
+    <emoticon file="1F6B0" >
+        <string>🚰</string>
+    </emoticon>
+    <emoticon file="1F3BB" >
+        <string>🎻</string>
+    </emoticon>
+    <emoticon file="2705" >
+        <string>✅</string>
+    </emoticon>
+    <emoticon file="1F691" >
+        <string>🚑</string>
+    </emoticon>
+    <emoticon file="1F511" >
+        <string>🔑</string>
+    </emoticon>
+    <emoticon file="274C" >
+        <string>❌</string>
+    </emoticon>
+    <emoticon file="1F19A" >
+        <string>🆚</string>
+    </emoticon>
+    <emoticon file="1F3ED" >
+        <string>🏭</string>
+    </emoticon>
+    <emoticon file="1F3CA" >
+        <string>🏊</string>
+    </emoticon>
+    <emoticon file="1F502" >
+        <string>🔂</string>
+    </emoticon>
+    <emoticon file="2196" >
+        <string>↖</string>
+    </emoticon>
+    <emoticon file="1F434" >
+        <string>🐴</string>
+    </emoticon>
+    <emoticon file="1F36A" >
+        <string>🍪</string>
+    </emoticon>
+    <emoticon file="1F50A" >
+        <string>🔊</string>
+    </emoticon>
+    <emoticon file="261D" >
+        <string>☝</string>
+    </emoticon>
+    <emoticon file="2734" >
+        <string>✴</string>
+    </emoticon>
+    <emoticon file="1F3B7" >
+        <string>🎷</string>
+    </emoticon>
+    <emoticon file="1F41A" >
+        <string>🐚</string>
+    </emoticon>
+    <emoticon file="1F470" >
+        <string>👰</string>
+    </emoticon>
+    <emoticon file="1F4AA" >
+        <string>💪</string>
+    </emoticon>
+    <emoticon file="1F518" >
+        <string>🔘</string>
+    </emoticon>
+    <emoticon file="1F459" >
+        <string>👙</string>
+    </emoticon>
+    <emoticon file="1F4D7" >
+        <string>📗</string>
+    </emoticon>
+    <emoticon file="1F409" >
+        <string>🐉</string>
+    </emoticon>
+    <emoticon file="2712" >
+        <string>✒</string>
+    </emoticon>
+    <emoticon file="1F464" >
+        <string>👤</string>
+    </emoticon>
+    <emoticon file="1F4D8" >
+        <string>📘</string>
+    </emoticon>
+    <emoticon file="1F68F" >
+        <string>🚏</string>
+    </emoticon>
+    <emoticon file="1F608" >
+        <string>😈</string>
+    </emoticon>
+    <emoticon file="1F521" >
+        <string>🔡</string>
+    </emoticon>
+    <emoticon file="1F4C9" >
+        <string>📉</string>
+    </emoticon>
+    <emoticon file="1F170" >
+        <string>🅰</string>
+    </emoticon>
+    <emoticon file="1F490" >
+        <string>💐</string>
+    </emoticon>
+    <emoticon file="1F53D" >
+        <string>🔽</string>
+    </emoticon>
+    <emoticon file="1F456" >
+        <string>👖</string>
+    </emoticon>
+    <emoticon file="1F442" >
+        <string>👂</string>
+    </emoticon>
+    <emoticon file="1F3BE" >
+        <string>🎾</string>
+    </emoticon>
+    <emoticon file="1F4E2" >
+        <string>📢</string>
+    </emoticon>
+    <emoticon file="1F63E" >
+        <string>😾</string>
+    </emoticon>
+    <emoticon file="2B06" >
+        <string>⬆</string>
+    </emoticon>
+    <emoticon file="2663" >
+        <string>♣</string>
+    </emoticon>
+    <emoticon file="1F44E" >
+        <string>👎</string>
+    </emoticon>
+    <emoticon file="1F491" >
+        <string>💑</string>
+    </emoticon>
+    <emoticon file="1F699" >
+        <string>🚙</string>
+    </emoticon>
+    <emoticon file="1F353" >
+        <string>🍓</string>
+    </emoticon>
+    <emoticon file="2B05" >
+        <string>⬅</string>
+    </emoticon>
+    <emoticon file="1F4F1" >
+        <string>📱</string>
+    </emoticon>
+    <emoticon file="1F52E" >
+        <string>🔮</string>
+    </emoticon>
+    <emoticon file="1F62A" >
+        <string>😪</string>
+    </emoticon>
+    <emoticon file="25FB" >
+        <string>◻</string>
+    </emoticon>
+    <emoticon file="1F628" >
+        <string>😨</string>
+    </emoticon>
+    <emoticon file="1F497" >
+        <string>💗</string>
+    </emoticon>
+    <emoticon file="1F4C4" >
+        <string>📄</string>
+    </emoticon>
+    <emoticon file="1F649" >
+        <string>🙉</string>
+    </emoticon>
+    <emoticon file="1F47B" >
+        <string>👻</string>
+    </emoticon>
+    <emoticon file="25B6" >
+        <string>▶</string>
+    </emoticon>
+    <emoticon file="1F4A5" >
+        <string>💥</string>
+    </emoticon>
+    <emoticon file="1F6A5" >
+        <string>🚥</string>
+    </emoticon>
+    <emoticon file="1F355" >
+        <string>🍕</string>
+    </emoticon>
+    <emoticon file="1F496" >
+        <string>💖</string>
+    </emoticon>
+    <emoticon file="1F300" >
+        <string>🌀</string>
+    </emoticon>
+    <emoticon file="1F51B" >
+        <string>🔛</string>
+    </emoticon>
+    <emoticon file="1F4DD" >
+        <string>📝</string>
+    </emoticon>
+    <emoticon file="26F2" >
+        <string>⛲</string>
+    </emoticon>
+    <emoticon file="1F37B" >
+        <string>🍻</string>
+    </emoticon>
+    <emoticon file="1F374" >
+        <string>🍴</string>
+    </emoticon>
+    <emoticon file="1F6C2" >
+        <string>🛂</string>
+    </emoticon>
+    <emoticon file="1F36E" >
+        <string>🍮</string>
+    </emoticon>
+    <emoticon file="1F44D" >
+        <string>👍</string>
+    </emoticon>
+    <emoticon file="1F344" >
+        <string>🍄</string>
+    </emoticon>
+    <emoticon file="2122" >
+        <string>™</string>
+    </emoticon>
+    <emoticon file="1F6C4" >
+        <string>🛄</string>
+    </emoticon>
+    <emoticon file="1F531" >
+        <string>🔱</string>
+    </emoticon>
+    <emoticon file="2728" >
+        <string>✨</string>
+    </emoticon>
+    <emoticon file="26BD" >
+        <string>⚽</string>
+    </emoticon>
+    <emoticon file="1F352" >
+        <string>🍒</string>
+    </emoticon>
+    <emoticon file="1F35C" >
+        <string>🍜</string>
+    </emoticon>
+    <emoticon file="1F44C" >
+        <string>👌</string>
+    </emoticon>
+    <emoticon file="26D4" >
+        <string>⛔</string>
+    </emoticon>
+    <emoticon file="1F436" >
+        <string>🐶</string>
+    </emoticon>
+    <emoticon file="1F33A" >
+        <string>🌺</string>
+    </emoticon>
+    <emoticon file="1F633" >
+        <string>😳</string>
+    </emoticon>
+    <emoticon file="1F372" >
+        <string>🍲</string>
+    </emoticon>
+    <emoticon file="1F4BB" >
+        <string>💻</string>
+    </emoticon>
+    <emoticon file="1F508" >
+        <string>🔈</string>
+    </emoticon>
+    <emoticon file="1F447" >
+        <string>👇</string>
+    </emoticon>
+    <emoticon file="1F30E" >
+        <string>🌎</string>
+    </emoticon>
+    <emoticon file="1F4AE" >
+        <string>💮</string>
+    </emoticon>
+    <emoticon file="3297" >
+        <string>㊗</string>
+    </emoticon>
+    <emoticon file="1F6A2" >
+        <string>🚢</string>
+    </emoticon>
+    <emoticon file="1F4C5" >
+        <string>📅</string>
+    </emoticon>
+    <emoticon file="23EA" >
+        <string>⏪</string>
+    </emoticon>
+    <emoticon file="1F251" >
+        <string>🉑</string>
+    </emoticon>
+    <emoticon file="1F3A2" >
+        <string>🎢</string>
+    </emoticon>
+    <emoticon file="1F3AF" >
+        <string>🎯</string>
+    </emoticon>
+    <emoticon file="1F689" >
+        <string>🚉</string>
+    </emoticon>
+    <emoticon file="2753" >
+        <string>❓</string>
+    </emoticon>
+    <emoticon file="1F567" >
+        <string>🕧</string>
+    </emoticon>
+    <emoticon file="1F473" >
+        <string>👳</string>
+    </emoticon>
+    <emoticon file="1F624" >
+        <string>😤</string>
+    </emoticon>
+    <emoticon file="1F686" >
+        <string>🚆</string>
+    </emoticon>
+    <emoticon file="1F68E" >
+        <string>🚎</string>
+    </emoticon>
+    <emoticon file="1F646" >
+        <string>🙆</string>
+    </emoticon>
+    <emoticon file="1F472" >
+        <string>👲</string>
+    </emoticon>
+    <emoticon file="1F697" >
+        <string>🚗</string>
+    </emoticon>
+    <emoticon file="1F4E9" >
+        <string>📩</string>
+    </emoticon>
+    <emoticon file="274E" >
+        <string>❎</string>
+    </emoticon>
+    <emoticon file="1F539" >
+        <string>🔹</string>
+    </emoticon>
+    <emoticon file="1F64E" >
+        <string>🙎</string>
+    </emoticon>
+    <emoticon file="264F" >
+        <string>♏</string>
+    </emoticon>
+    <emoticon file="1F312" >
+        <string>🌒</string>
+    </emoticon>
+    <emoticon file="2611" >
+        <string>☑</string>
+    </emoticon>
+    <emoticon file="1F517" >
+        <string>🔗</string>
+    </emoticon>
+    <emoticon file="1F4FC" >
+        <string>📼</string>
+    </emoticon>
+    <emoticon file="1F3E4" >
+        <string>🏤</string>
+    </emoticon>
+    <emoticon file="1F494" >
+        <string>💔</string>
+    </emoticon>
+    <emoticon file="1F69D" >
+        <string>🚝</string>
+    </emoticon>
+    <emoticon file="23F3" >
+        <string>⏳</string>
+    </emoticon>
+    <emoticon file="1F558" >
+        <string>🕘</string>
+    </emoticon>
+    <emoticon file="26C4" >
+        <string>⛄</string>
+    </emoticon>
+    <emoticon file="1F60E" >
+        <string>😎</string>
+    </emoticon>
+    <emoticon file="1F501" >
+        <string>🔁</string>
+    </emoticon>
+    <emoticon file="1F476" >
+        <string>👶</string>
+    </emoticon>
+    <emoticon file="1F3E8" >
+        <string>🏨</string>
+    </emoticon>
+    <emoticon file="1F3E1" >
+        <string>🏡</string>
+    </emoticon>
+    <emoticon file="1F6A6" >
+        <string>🚦</string>
+    </emoticon>
+    <emoticon file="1F444" >
+        <string>👄</string>
+    </emoticon>
+    <emoticon file="1F630" >
+        <string>😰</string>
+    </emoticon>
+    <emoticon file="231A" >
+        <string>⌚</string>
+    </emoticon>
+    <emoticon file="1F314" >
+        <string>🌔</string>
+    </emoticon>
+    <emoticon file="1F68A" >
+        <string>🚊</string>
+    </emoticon>
+    <emoticon file="1F4B5" >
+        <string>💵</string>
+    </emoticon>
+    <emoticon file="1F498" >
+        <string>💘</string>
+    </emoticon>
+    <emoticon file="1F684" >
+        <string>🚄</string>
+    </emoticon>
+    <emoticon file="1F52F" >
+        <string>🔯</string>
+    </emoticon>
+    <emoticon file="1F499" >
+        <string>💙</string>
+    </emoticon>
+    <emoticon file="1F6AA" >
+        <string>🚪</string>
+    </emoticon>
+    <emoticon file="1F49A" >
+        <string>💚</string>
+    </emoticon>
+    <emoticon file="1F4BF" >
+        <string>💿</string>
+    </emoticon>
+    <emoticon file="1F565" >
+        <string>🕥</string>
+    </emoticon>
+    <emoticon file="270C" >
+        <string>✌</string>
+    </emoticon>
+    <emoticon file="1F6B4" >
+        <string>🚴</string>
+    </emoticon>
+    <emoticon file="1F390" >
+        <string>🎐</string>
+    </emoticon>
+    <emoticon file="1F40A" >
+        <string>🐊</string>
+    </emoticon>
+    <emoticon file="23EB" >
+        <string>⏫</string>
+    </emoticon>
+    <emoticon file="27BF" >
+        <string>➿</string>
+    </emoticon>
+    <emoticon file="1F3B3" >
+        <string>🎳</string>
+    </emoticon>
+    <emoticon file="1F403" >
+        <string>🐃</string>
+    </emoticon>
+    <emoticon file="1F62F" >
+        <string>😯</string>
+    </emoticon>
+    <emoticon file="1F647" >
+        <string>🙇</string>
+    </emoticon>
+    <emoticon file="1F363" >
+        <string>🍣</string>
+    </emoticon>
+    <emoticon file="1F38C" >
+        <string>🎌</string>
+    </emoticon>
+    <emoticon file="1F4CE" >
+        <string>📎</string>
+    </emoticon>
+    <emoticon file="1F6A1" >
+        <string>🚡</string>
+    </emoticon>
+    <emoticon file="1F60C" >
+        <string>😌</string>
+    </emoticon>
+    <emoticon file="1F45C" >
+        <string>👜</string>
+    </emoticon>
+    <emoticon file="2764" >
+        <string>❤</string>
+    </emoticon>
+    <emoticon file="1F4F2" >
+        <string>📲</string>
+    </emoticon>
+    <emoticon file="1F6C3" >
+        <string>🛃</string>
+    </emoticon>
+    <emoticon file="1F479" >
+        <string>👹</string>
+    </emoticon>
+    <emoticon file="1F239" >
+        <string>🈹</string>
+    </emoticon>
+    <emoticon file="1F306" >
+        <string>🌆</string>
+    </emoticon>
+    <emoticon file="1F46F" >
+        <string>👯</string>
+    </emoticon>
+    <emoticon file="1F33D" >
+        <string>🌽</string>
+    </emoticon>
+    <emoticon file="1F505" >
+        <string>🔅</string>
+    </emoticon>
+    <emoticon file="1F482" >
+        <string>💂</string>
+    </emoticon>
+    <emoticon file="1F63B" >
+        <string>😻</string>
+    </emoticon>
+    <emoticon file="1F3A3" >
+        <string>🎣</string>
+    </emoticon>
+    <emoticon file="1F481" >
+        <string>💁</string>
+    </emoticon>
+    <emoticon file="1F192" >
+        <string>🆒</string>
+    </emoticon>
+    <emoticon file="1F6A3" >
+        <string>🚣</string>
+    </emoticon>
+    <emoticon file="1F339" >
+        <string>🌹</string>
+    </emoticon>
+    <emoticon file="1F61F" >
+        <string>😟</string>
+    </emoticon>
+    <emoticon file="1F50E" >
+        <string>🔎</string>
+    </emoticon>
+    <emoticon file="1F36B" >
+        <string>🍫</string>
+    </emoticon>
+    <emoticon file="264C" >
+        <string>♌</string>
+    </emoticon>
+    <emoticon file="1F3C4" >
+        <string>🏄</string>
+    </emoticon>
+    <emoticon file="2660" >
+        <string>♠</string>
+    </emoticon>
+    <emoticon file="1F3A9" >
+        <string>🎩</string>
+    </emoticon>
+    <emoticon file="1F38B" >
+        <string>🎋</string>
+    </emoticon>
+    <emoticon file="1F401" >
+        <string>🐁</string>
+    </emoticon>
+    <emoticon file="1F45A" >
+        <string>👚</string>
+    </emoticon>
+    <emoticon file="1F551" >
+        <string>🕑</string>
+    </emoticon>
+    <emoticon file="1F6B9" >
+        <string>🚹</string>
+    </emoticon>
+    <emoticon file="1F418" >
+        <string>🐘</string>
+    </emoticon>
+    <emoticon file="1F51A" >
+        <string>🔚</string>
+    </emoticon>
+    <emoticon file="1F683" >
+        <string>🚃</string>
+    </emoticon>
+    <emoticon file="1F42D" >
+        <string>🐭</string>
+    </emoticon>
+    <emoticon file="1F307" >
+        <string>🌇</string>
+    </emoticon>
+    <emoticon file="1F6A0" >
+        <string>🚠</string>
+    </emoticon>
+    <emoticon file="1F3B4" >
+        <string>🎴</string>
+    </emoticon>
+    <emoticon file="1F45D" >
+        <string>👝</string>
+    </emoticon>
+    <emoticon file="1F605" >
+        <string>😅</string>
+    </emoticon>
+    <emoticon file="1F692" >
+        <string>🚒</string>
+    </emoticon>
+    <emoticon file="1F3B1" >
+        <string>🎱</string>
+    </emoticon>
+    <emoticon file="1F6C0" >
+        <string>🛀</string>
+    </emoticon>
+    <emoticon file="1F392" >
+        <string>🎒</string>
+    </emoticon>
+    <emoticon file="1F38F" >
+        <string>🎏</string>
+    </emoticon>
+    <emoticon file="1F4BA" >
+        <string>💺</string>
+    </emoticon>
+    <emoticon file="1F238" >
+        <string>🈸</string>
+    </emoticon>
+    <emoticon file="1F40C" >
+        <string>🐌</string>
+    </emoticon>
+    <emoticon file="1F47C" >
+        <string>👼</string>
+    </emoticon>
+    <emoticon file="1F347" >
+        <string>🍇</string>
+    </emoticon>
+    <emoticon file="1F232" >
+        <string>🈲</string>
+    </emoticon>
+    <emoticon file="1F60D" >
+        <string>😍</string>
+    </emoticon>
+    <emoticon file="2797" >
+        <string>➗</string>
+    </emoticon>
+    <emoticon file="1F3C3" >
+        <string>🏃</string>
+    </emoticon>
+    <emoticon file="1F466" >
+        <string>👦</string>
+    </emoticon>
+    <emoticon file="1F35E" >
+        <string>🍞</string>
+    </emoticon>
+    <emoticon file="1F4E7" >
+        <string>📧</string>
+    </emoticon>
+    <emoticon file="1F63C" >
+        <string>😼</string>
+    </emoticon>
+    <emoticon file="1F236" >
+        <string>🈶</string>
+    </emoticon>
+    <emoticon file="1F507" >
+        <string>🔇</string>
+    </emoticon>
+    <emoticon file="1F527" >
+        <string>🔧</string>
+    </emoticon>
+    <emoticon file="1F495" >
+        <string>💕</string>
+    </emoticon>
+    <emoticon file="1F448" >
+        <string>👈</string>
+    </emoticon>
+    <emoticon file="1F690" >
+        <string>🚐</string>
+    </emoticon>
+    <emoticon file="1F361" >
+        <string>🍡</string>
+    </emoticon>
+    <emoticon file="23E9" >
+        <string>⏩</string>
+    </emoticon>
+    <emoticon file="2693" >
+        <string>⚓</string>
+    </emoticon>
+    <emoticon file="1F648" >
+        <string>🙈</string>
+    </emoticon>
+    <emoticon file="26F3" >
+        <string>⛳</string>
+    </emoticon>
+    <emoticon file="1F34B" >
+        <string>🍋</string>
+    </emoticon>
+    <emoticon file="1F233" >
+        <string>🈳</string>
+    </emoticon>
+    <emoticon file="1F4EF" >
+        <string>📯</string>
+    </emoticon>
+    <emoticon file="1F412" >
+        <string>🐒</string>
+    </emoticon>
+    <emoticon file="1F43A" >
+        <string>🐺</string>
+    </emoticon>
+    <emoticon file="1F331" >
+        <string>🌱</string>
+    </emoticon>
+    <emoticon file="1F51C" >
+        <string>🔜</string>
+    </emoticon>
+    <emoticon file="1F60A" >
+        <string>😊</string>
+    </emoticon>
+    <emoticon file="1F688" >
+        <string>🚈</string>
+    </emoticon>
+    <emoticon file="1F3C6" >
+        <string>🏆</string>
+    </emoticon>
+    <emoticon file="1F6B1" >
+        <string>🚱</string>
+    </emoticon>
+    <emoticon file="1F461" >
+        <string>👡</string>
+    </emoticon>
+    <emoticon file="1F376" >
+        <string>🍶</string>
+    </emoticon>
+    <emoticon file="1F4C3" >
+        <string>📃</string>
+    </emoticon>
+    <emoticon file="263A" >
+        <string>☺</string>
+    </emoticon>
+    <emoticon file="1F424" >
+        <string>🐤</string>
+    </emoticon>
+    <emoticon file="1F457" >
+        <string>👗</string>
+    </emoticon>
+    <emoticon file="2139" >
+        <string>ℹ</string>
+    </emoticon>
+    <emoticon file="2668" >
+        <string>♨</string>
+    </emoticon>
+    <emoticon file="3299" >
+        <string>㊙</string>
+    </emoticon>
+    <emoticon file="270F" >
+        <string>✏</string>
+    </emoticon>
+    <emoticon file="1F604" >
+        <string>😄</string>
+    </emoticon>
+    <emoticon file="1F503" >
+        <string>🔃</string>
+    </emoticon>
+    <emoticon file="1F413" >
+        <string>🐓</string>
+    </emoticon>
+    <emoticon file="1F680" >
+        <string>🚀</string>
+    </emoticon>
+    <emoticon file="1F30F" >
+        <string>🌏</string>
+    </emoticon>
+    <emoticon file="1F63D" >
+        <string>😽</string>
+    </emoticon>
+    <emoticon file="26C5" >
+        <string>⛅</string>
+    </emoticon>
+    <emoticon file="1F4F9" >
+        <string>📹</string>
+    </emoticon>
+    <emoticon file="1F302" >
+        <string>🌂</string>
+    </emoticon>
+    <emoticon file="1F455" >
+        <string>👕</string>
+    </emoticon>
+    <emoticon file="2744" >
+        <string>❄</string>
+    </emoticon>
+    <emoticon file="1F64B" >
+        <string>🙋</string>
+    </emoticon>
+    <emoticon file="1F414" >
+        <string>🐔</string>
+    </emoticon>
+    <emoticon file="2747" >
+        <string>❇</string>
+    </emoticon>
+    <emoticon file="1F3C0" >
+        <string>🏀</string>
+    </emoticon>
+    <emoticon file="1F52C" >
+        <string>🔬</string>
+    </emoticon>
+    <emoticon file="1F360" >
+        <string>🍠</string>
+    </emoticon>
+    <emoticon file="1F61E" >
+        <string>😞</string>
+    </emoticon>
+    <emoticon file="260E" >
+        <string>☎</string>
+    </emoticon>
+    <emoticon file="1F320" >
+        <string>🌠</string>
+    </emoticon>
+    <emoticon file="1F381" >
+        <string>🎁</string>
+    </emoticon>
+    <emoticon file="1F64F" >
+        <string>🙏</string>
+    </emoticon>
+    <emoticon file="1F37C" >
+        <string>🍼</string>
+    </emoticon>
+    <emoticon file="1F60B" >
+        <string>😋</string>
+    </emoticon>
+    <emoticon file="1F4FA" >
+        <string>📺</string>
+    </emoticon>
+    <emoticon file="1F4F3" >
+        <string>📳</string>
+    </emoticon>
+    <emoticon file="1F6B7" >
+        <string>🚷</string>
+    </emoticon>
+    <emoticon file="1F3E9" >
+        <string>🏩</string>
+    </emoticon>
+    <emoticon file="2733" >
+        <string>✳</string>
+    </emoticon>
+    <emoticon file="1F6BF" >
+        <string>🚿</string>
+    </emoticon>
+    <emoticon file="2614" >
+        <string>☔</string>
+    </emoticon>
+    <emoticon file="1F420" >
+        <string>🐠</string>
+    </emoticon>
+    <emoticon file="1F6A4" >
+        <string>🚤</string>
+    </emoticon>
+    <emoticon file="1F435" >
+        <string>🐵</string>
+    </emoticon>
+    <emoticon file="1F5FC" >
+        <string>🗼</string>
+    </emoticon>
+    <emoticon file="1F536" >
+        <string>🔶</string>
+    </emoticon>
+    <emoticon file="1F63A" >
+        <string>😺</string>
+    </emoticon>
+    <emoticon file="1F42C" >
+        <string>🐬</string>
+    </emoticon>
+    <emoticon file="1F452" >
+        <string>👒</string>
+    </emoticon>
+    <emoticon file="1F6C1" >
+        <string>🛁</string>
+    </emoticon>
+    <emoticon file="1F6B8" >
+        <string>🚸</string>
+    </emoticon>
+    <emoticon file="1F53B" >
+        <string>🔻</string>
+    </emoticon>
+    <emoticon file="1F377" >
+        <string>🍷</string>
+    </emoticon>
+    <emoticon file="1F4A7" >
+        <string>💧</string>
+    </emoticon>
+    <emoticon file="1F6BA" >
+        <string>🚺</string>
+    </emoticon>
+    <emoticon file="1F38E" >
+        <string>🎎</string>
+    </emoticon>
+    <emoticon file="25FC" >
+        <string>◼</string>
+    </emoticon>
+    <emoticon file="1F4DC" >
+        <string>📜</string>
+    </emoticon>
+    <emoticon file="267B" >
+        <string>♻</string>
+    </emoticon>
+    <emoticon file="1F529" >
+        <string>🔩</string>
+    </emoticon>
+    <emoticon file="1F408" >
+        <string>🐈</string>
+    </emoticon>
+    <emoticon file="1F520" >
+        <string>🔠</string>
+    </emoticon>
+    <emoticon file="1F6AB" >
+        <string>🚫</string>
+    </emoticon>
+    <emoticon file="1F46D" >
+        <string>👭</string>
+    </emoticon>
+    <emoticon file="1F696" >
+        <string>🚖</string>
+    </emoticon>
+    <emoticon file="1F3EF" >
+        <string>🏯</string>
+    </emoticon>
+    <emoticon file="1F3C1" >
+        <string>🏁</string>
+    </emoticon>
+    <emoticon file="2049" >
+        <string>⁉</string>
+    </emoticon>
+    <emoticon file="2709" >
+        <string>✉</string>
+    </emoticon>
+    <emoticon file="1F33E" >
+        <string>🌾</string>
+    </emoticon>
+    <emoticon file="1F626" >
+        <string>😦</string>
+    </emoticon>
+    <emoticon file="25FE" >
+        <string>◾</string>
+    </emoticon>
+    <emoticon file="1F6AC" >
+        <string>🚬</string>
+    </emoticon>
+    <emoticon file="1F389" >
+        <string>🎉</string>
+    </emoticon>
+    <emoticon file="1F629" >
+        <string>😩</string>
+    </emoticon>
+    <emoticon file="1F341" >
+        <string>🍁</string>
+    </emoticon>
+    <emoticon file="1F52D" >
+        <string>🔭</string>
+    </emoticon>
+    <emoticon file="1F48A" >
+        <string>💊</string>
+    </emoticon>
+    <emoticon file="1F4F0" >
+        <string>📰</string>
+    </emoticon>
+    <emoticon file="1F3A7" >
+        <string>🎧</string>
+    </emoticon>
+    <emoticon file="2755" >
+        <string>❕</string>
+    </emoticon>
+    <emoticon file="25FD" >
+        <string>◽</string>
+    </emoticon>
+    <emoticon file="1F3A8" >
+        <string>🎨</string>
+    </emoticon>
+    <emoticon file="2716" >
+        <string>✖</string>
+    </emoticon>
+    <emoticon file="1F30C" >
+        <string>🌌</string>
+    </emoticon>
+    <emoticon file="2195" >
+        <string>↕</string>
+    </emoticon>
+    <emoticon file="1F3AD" >
+        <string>🎭</string>
+    </emoticon>
+    <emoticon file="1F317" >
+        <string>🌗</string>
+    </emoticon>
+    <emoticon file="1F618" >
+        <string>😘</string>
+    </emoticon>
+    <emoticon file="25C0" >
+        <string>◀</string>
+    </emoticon>
+    <emoticon file="1F5FF" >
+        <string>🗿</string>
+    </emoticon>
+    <emoticon file="1F530" >
+        <string>🔰</string>
+    </emoticon>
+    <emoticon file="1F504" >
+        <string>🔄</string>
+    </emoticon>
+    <emoticon file="1F561" >
+        <string>🕡</string>
+    </emoticon>
+    <emoticon file="1F55A" >
+        <string>🕚</string>
+    </emoticon>
+    <emoticon file="1F373" >
+        <string>🍳</string>
+    </emoticon>
+    <emoticon file="1F45F" >
+        <string>👟</string>
+    </emoticon>
+    <emoticon file="2666" >
+        <string>♦</string>
+    </emoticon>
+    <emoticon file="1F4B4" >
+        <string>💴</string>
+    </emoticon>
+    <emoticon file="1F4C0" >
+        <string>📀</string>
+    </emoticon>
+    <emoticon file="1F602" >
+        <string>😂</string>
+    </emoticon>
+    <emoticon file="1F4BC" >
+        <string>💼</string>
+    </emoticon>
+    <emoticon file="2714" >
+        <string>✔</string>
+    </emoticon>
+    <emoticon file="1F34A" >
+        <string>🍊</string>
+    </emoticon>
+    <emoticon file="1F550" >
+        <string>🕐</string>
+    </emoticon>
+    <emoticon file="264E" >
+        <string>♎</string>
+    </emoticon>
+    <emoticon file="1F4FB" >
+        <string>📻</string>
+    </emoticon>
+    <emoticon file="1F4B7" >
+        <string>💷</string>
+    </emoticon>
+    <emoticon file="1F4F7" >
+        <string>📷</string>
+    </emoticon>
+    <emoticon file="1F46E" >
+        <string>👮</string>
+    </emoticon>
+    <emoticon file="1F388" >
+        <string>🎈</string>
+    </emoticon>
+    <emoticon file="1F47D" >
+        <string>👽</string>
+    </emoticon>
+    <emoticon file="1F3A0" >
+        <string>🎠</string>
+    </emoticon>
+    <emoticon file="1F616" >
+        <string>😖</string>
+    </emoticon>
+    <emoticon file="1F171" >
+        <string>🅱</string>
+    </emoticon>
+    <emoticon file="2796" >
+        <string>➖</string>
+    </emoticon>
+    <emoticon file="1F3AB" >
+        <string>🎫</string>
+    </emoticon>
+    <emoticon file="1F460" >
+        <string>👠</string>
+    </emoticon>
+    <emoticon file="1F4E4" >
+        <string>📤</string>
+    </emoticon>
+    <emoticon file="1F366" >
+        <string>🍦</string>
+    </emoticon>
+    <emoticon file="2194" >
+        <string>↔</string>
+    </emoticon>
+    <emoticon file="1F4B6" >
+        <string>💶</string>
+    </emoticon>
+    <emoticon file="1F3B0" >
+        <string>🎰</string>
+    </emoticon>
+    <emoticon file="1F44B" >
+        <string>👋</string>
+    </emoticon>
+    <emoticon file="1F489" >
+        <string>💉</string>
+    </emoticon>
+</messaging-emoticon-map>
